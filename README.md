@@ -1,4 +1,4 @@
-# Exemplo de Impressão de String em C
+# HelloWorldinC
 
 Este é um exemplo simples em C que mostra como imprimir uma string usando valores hexadecimais.
 
